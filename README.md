@@ -28,7 +28,7 @@ I'm a recent graduate with a Master's Degree in Engineering in Computer Science.
 
 ### Connect with me:
 - <a href="https://www.linkedin.com/in/aloilor/"><img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a> [Linkedin](https://www.linkedin.com/in/aloilor/)
-- <img align="left" pointer-events: none src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/gmail.png" alt="icon | Gmail" width="21px"/> `aloisi.lorenzo99@gmail.com`
+- [](./images/gmail.png) `aloisi.lorenzo99@gmail.com`
 
 
 
