@@ -23,7 +23,7 @@ I'm a recent graduate with a Master's Degree in Engineering in Computer Science.
 - [Wavelet-Based Diffusion Models for Enhanced Inference Speed in Image Super-Resolution]()
 - [Full-stack containerized platform connecting users with skilled professionals](https://github.com/aloilor/rentyourexpert)
 - [Modern treasure hunt mobile-app with image recognition, GPS, and competitive gameplay](https://github.com/aloilor/photohunt)
-- 
+- [Web-based endless-runner car racing game built with three.js and WebGL.](https://github.com/aloilor/80s-lofi-run)
 
 
 ### Connect with me:
