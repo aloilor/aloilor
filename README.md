@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 
 
 
-## 📫 Connect with me:
+## Connect with me:
 - <a href="https://www.linkedin.com/in/aloilor/"><img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a> [Linkedin](https://www.linkedin.com/in/aloilor/)
 - <img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/gmail.png" alt="icon | Gmail" width="21px"/></a> aloisi.lorenzo99@gmail.com
 
