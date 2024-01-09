@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Projects:
 - [Wavelet-Based Diffusion Models for Enhanced Inference Speed in Image Super-Resolution]()
 - [Full-stack containerized platform connecting users with skilled professionals](https://github.com/aloilor/rentyourexpert)
-- [Treasure hunt app with AI, GPS, and competitive gameplay](https://github.com/aloilor/photohunt) 
+- [Modern treasure hunt mobile-app with image recognition, GPS, and competitive gameplay](https://github.com/aloilor/photohunt) 
 
 
 ## Connect with me:
