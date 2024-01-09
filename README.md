@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Education: 
+### Education: 
 - Master of Science in Engineering in Computer Science @ Sapienza Università di Roma
 - Bachelor of Science in Automation and Computer Engineering @ Sapienza Università di Roma
 
-## Projects:
+### Projects:
 - [Wavelet-Based Diffusion Models for Enhanced Inference Speed in Image Super-Resolution]()
 - [Full-stack containerized platform connecting users with skilled professionals](https://github.com/aloilor/rentyourexpert)
 - [Modern treasure hunt mobile-app with image recognition, GPS, and competitive gameplay](https://github.com/aloilor/photohunt)
 - 
 
 
-## Connect with me:
+### Connect with me:
 - <a href="https://www.linkedin.com/in/aloilor/"><img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a> [Linkedin](https://www.linkedin.com/in/aloilor/)
 - <img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/gmail.png" alt="icon | Gmail" width="21px"/></a> aloisi.lorenzo99@gmail.com
 
