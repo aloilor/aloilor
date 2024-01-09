@@ -1,5 +1,3 @@
-### Hey there, nice to meet you 👋
-
 <!--
 **aloilor/aloilor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there, nice to meet you 👋
+I'm a recent graduate with a Master's Degree in Engineering in Computer Science. I'm passionate about Deep Learning, Machine Learning and Software Engineering solutions and I'm actively looking for a job in these fields. FOr my Master's Thesis I worked on a Deep Learning research project involving improving Image Super-Resolution ([SRWaveDiff]()).
 
 ### Education: 
 - Master of Science in Engineering in Computer Science @ `Sapienza Università di Roma`
