@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Education: 
+## Education: 
 - Master of Science in Engineering in Computer Science @ Sapienza Università di Roma
 - Bachelor of Science in Automation and Computer Engineering @ Sapienza Università di Roma
 
 
 ## 📫 Connect with me:
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aloilor/)
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- <a href=”https://www.linkedin.com/in/aloilor/"><img align=”left” src=”https://raw.githubusercontent.com/aloilor/aloilor/master/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
