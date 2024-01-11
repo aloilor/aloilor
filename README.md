@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there, nice to meet you 👋
-I'm a recent graduate with a Master's Degree in Engineering in Computer Science. For my Master's Thesis I worked on a Deep Learning research project involving improving Image Super-Resolution [[SRWaveDiff]()]. I'm passionate about Deep Learning, Machine Learning and Software Engineering solutions and I'm actively looking for a job in these fields. 
+I'm a recent graduate with a Master's Degree in Engineering in Computer Science. For my Master's Thesis I worked on a Deep Learning research project involving improving Image Super-Resolution [[SRWaveDiff](https://github.com/aloilor/SRWaveDiff)]. I'm passionate about Deep Learning, Machine Learning and Software Engineering solutions and I'm actively looking for a job in these fields. 
 
 ### Education: 
 - Master of Science in Engineering in Computer Science @ `Sapienza Università di Roma`
 - Bachelor of Science in Automation and Computer Engineering @ `Sapienza Università di Roma`
 
 ### Projects:
-- [Wavelet-Based Diffusion Models for Enhanced Inference Speed in Image Super-Resolution]()
+- [Wavelet-Based Diffusion Models for Enhanced Inference Speed in Image Super-Resolution](https://github.com/aloilor/SRWaveDiff)
 - [Full-stack containerized platform connecting users with skilled professionals](https://github.com/aloilor/rentyourexpert)
 - [Modern treasure hunt mobile-app with image recognition, GPS, and competitive gameplay](https://github.com/aloilor/photohunt)
 - [Web-based endless-runner car racing game built with three.js and WebGL](https://github.com/aloilor/80s-lofi-run)
