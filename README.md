@@ -25,6 +25,9 @@ I'm a recent graduate with a Master's Degree in Engineering in Computer Science.
 - [Modern treasure hunt mobile-app with image recognition, GPS, and competitive gameplay](https://github.com/aloilor/photohunt)
 - [Web-based endless-runner car racing game built with three.js and WebGL](https://github.com/aloilor/80s-lofi-run)
 
+### What I'm up to:
+- Studying NLP ([Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4))
+
 
 ### Connect with me:
 - <a href="https://www.linkedin.com/in/aloilor/"><img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a> [LinkedIn](https://www.linkedin.com/in/aloilor/)
