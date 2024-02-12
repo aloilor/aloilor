@@ -17,7 +17,7 @@ I'm a recent graduate with a Master's Degree in Engineering in Computer Science.
 
 ### Education: 
 - Master of Science in Engineering in Computer Science @ `Sapienza Università di Roma`
-- Bachelor of Science in Automation and Computer Engineering @ `Sapienza Università di Roma`
+- Bachelor of Science in Computer and Control Engineering @ `Sapienza Università di Roma`
 
 ### Projects:
 - [Wavelet-Based Diffusion Models for Enhanced Inference Speed in Image Super-Resolution](https://github.com/aloilor/SRWaveDiff)
