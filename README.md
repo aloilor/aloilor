@@ -26,7 +26,7 @@ I'm a recent graduate with a Master's Degree in Engineering in Computer Science.
 - [Web-based endless-runner car racing game built with three.js and WebGL](https://github.com/aloilor/80s-lofi-run)
 
 ### What I'm up to:
-- Studying NLP [[Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4), [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html#attention-mechanisms-and-transformers), [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)] 
+- Studying NLP [[Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4), [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), [Dive into Deep Learning](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html#attention-mechanisms-and-transformers)] 
 
 
 ### Connect with me:
