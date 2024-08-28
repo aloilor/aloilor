@@ -32,6 +32,7 @@ I'm a recent graduate with a Master's Degree in Engineering in Computer Science.
 ### Connect with me:
 - <a href="https://www.linkedin.com/in/aloilor/"><img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a> [LinkedIn](https://www.linkedin.com/in/aloilor/)
 - <a href="mailto:aloisi.lorenzo99@gmail.com"><img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/gmail.png" alt="icon | Gmail" width="21px"/></a>  `aloisi.lorenzo99@gmail.com`
+- <a href="https://aloilor.github.io/"><img align="left" src="https://raw.githubusercontent.com/aloilor/aloilor/master/images/blog.png" alt="icon | Blog" width="21px"/></a> [aloilor.github.io](https://aloilor.github.io/)
 
 
 
