@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 ### Hey there, nice to meet you 👋
 I'm a recent graduate with a Master's Degree in Engineering in Computer Science. For my Master's Thesis I worked on a Deep Learning research project involving improving Image Super-Resolution [[WaDiGAN-SR](https://github.com/aloilor/SRWaveDiff)]. I'm passionate about Deep Learning, Machine Learning and Software Engineering solutions and I'm actively looking for a job in these fields. 
 
+### Experience: 
+- Backend Software Engineer @ `Discovery Reply`
+
 ### Education: 
 - Master of Science in Engineering in Computer Science @ `Sapienza Università di Roma`
 - Bachelor of Science in Computer and Control Engineering @ `Sapienza Università di Roma`
