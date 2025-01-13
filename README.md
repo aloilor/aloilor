@@ -23,6 +23,7 @@ I'm a recent graduate with a Master's Degree in Engineering in Computer Science.
 - Bachelor of Science in Computer and Control Engineering @ `Sapienza Università di Roma`
 
 ### Projects:
+- [Manga Alert Italia - Manga Releases Tracker and Notification System](https://github.com/aloilor/MangaAlertItalia)
 - [A Wavelet-based Diffusion GAN approach to Image Super-Resolution](https://github.com/aloilor/SRWaveDiff)
 - [Full-stack containerized platform connecting users with skilled professionals](https://github.com/aloilor/rentyourexpert)
 - [Modern treasure hunt mobile-app with image recognition, GPS, and competitive gameplay](https://github.com/aloilor/photohunt)
