@@ -13,7 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there, nice to meet you 👋
-I'm a recent graduate with a Master's Degree in Engineering in Computer Science. For my Master's Thesis I worked on a Deep Learning research project involving improving Image Super-Resolution [[WaDiGAN-SR](https://github.com/aloilor/SRWaveDiff)]. I'm passionate about Deep Learning, Machine Learning and Software Engineering solutions and I'm actively looking for a job in these fields. 
+I’m a Cloud & Backend Engineer with 2+ years of experience building AWS-based enterprise platforms, covering from authentication and APIs to data pipelines and infrastructure-as-code. 
+
+I ship backend services and production-ready AWS architectures designed for high availability, autoscaling, and security-by-design. A snapshot of my recent work:
+- architecting a Terraform-managed Disaster Recovery plan aligned with ISO 27001, with automated cross-region replication for Aurora, EFS, and S3; 
+- building SAML 2.0 SSO in Laravel for 120k+ enterprise users; 
+- delivering an ingestion pipeline processing ~5M records/day for analytics dashboards; 
+- deploying a private S3 + CloudFront CDN with signed URLs to enforce secure media delivery and reduce average asset load time (500ms → 150ms). 
+
+I thrive where solid engineering meets continuous learning. Let’s connect or reach me at aloisi.lorenzo99@gmail.com.
+
 
 ### Experience: 
 - Cloud & Backend Engineer @ `Reply`
