@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there, nice to meet you 👋
-I’m a Cloud & Backend Engineer with 2+ years of experience building AWS-based enterprise platforms, covering from authentication and APIs to data pipelines and infrastructure-as-code. 
+I’m a Backend & Cloud Engineer with 2+ years of experience building AWS-based enterprise platforms, covering from authentication and APIs to data pipelines and infrastructure-as-code. 
 
 I ship backend services and production-ready AWS architectures designed for high availability, autoscaling, and security-by-design. A snapshot of my recent work:
 - architecting a Terraform-managed Disaster Recovery plan aligned with ISO 27001, with automated cross-region replication for Aurora, EFS, and S3; 
@@ -25,7 +25,7 @@ I thrive where solid engineering meets continuous learning. Let’s connect or r
 
 
 ### Experience: 
-- Cloud & Backend Engineer @ `Reply`
+- Backend & Cloud Engineer @ `Reply`
 
 ### Education: 
 - Master of Science in Engineering in Computer Science @ `Sapienza Università di Roma`
