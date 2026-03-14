@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I’m a Backend & Cloud Engineer with 2+ years of experience building AWS-based enterprise platforms, covering from authentication and APIs to data pipelines and infrastructure-as-code. 
 
 I ship backend services and production-ready AWS architectures designed for high availability, autoscaling, and security-by-design. A snapshot of my recent work:
-- architecting a Terraform-managed Disaster Recovery plan aligned with ISO 27001, with automated cross-region replication for Aurora, EFS, and S3; 
+- architecting an ISO 27001-compliant disaster recovery solution with Terraform and cross-region backups for Aurora PostgreSQL, EFS, and S3, reducing recovery time by 50%;
 - building SAML 2.0 SSO in Laravel for 120k+ enterprise users; 
 - delivering an ingestion pipeline processing ~5M records/day for analytics dashboards; 
 - deploying a private S3 + CloudFront CDN with signed URLs to enforce secure media delivery and reduce average asset load time (500ms → 150ms). 
