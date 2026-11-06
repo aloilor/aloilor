@@ -25,7 +25,7 @@ I thrive where solid engineering meets continuous learning. Let’s connect or r
 
 
 ### Experience: 
-- Backend & Cloud Engineer @ `Reply`
+- Software Engineer (Backend and Infrastructure) @ `Reply`
 
 ### Education: 
 - Master of Science in Engineering in Computer Science @ `Sapienza Università di Roma`
